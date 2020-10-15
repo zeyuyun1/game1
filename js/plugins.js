@@ -3,5 +3,5 @@
 var $plugins =
 [
 {"name":"SpeedManager","status":true,"description":"v1.1 Allows you to manage default movement speeds.","parameters":{"Move Speed":"3","Dash Speed":"1","Boat Speed":"4","Ship Speed":"5","Airship Speed":"6","Agility Based":"false","Distance Per Frame":"Math.pow(2, this.realMoveSpeed()) / 256;"}},
-{"name":"AltMenuScreen","status":true,"description":"Alternative menu screen layout.","parameters":{}}
+{"name":"TerraxLighting","status":true,"description":"v1.5.1 Creates an extra layer that darkens a map and adds lightsources!","parameters":{"Player radius":"300","Add to options":"Yes","Option menu entry":"Lighting effects","Reset Lights":"No","Save DaynightHours":"0","Save DaynightMinutes":"0","Save DaynightSeconds":"0","Flashlight offset":"0","Screensize X":"866","Screensize Y":"630","Kill Switch":"No"}}
 ];
