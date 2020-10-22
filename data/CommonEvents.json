@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"list":[{"code":236,"indent":0,"parameters":["snow",5,60,true]},{"code":0,"indent":0,"parameters":[]}],"name":"snow","switchId":1,"trigger":2},
-{"id":2,"list":[{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":29,"parameters":[3],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[3],"indent":null}]},{"code":123,"indent":0,"parameters":["A",0]},{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":2,"trigger":1},
+{"id":1,"list":[{"code":201,"indent":0,"parameters":[0,9,10,11,0,0]},{"code":356,"indent":0,"parameters":["VISRANGE X"]},{"code":121,"indent":0,"parameters":[1,1,1]},{"code":0,"indent":0,"parameters":[]}],"name":"die","switchId":1,"trigger":1},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":2,"trigger":1},
 {"id":3,"list":[{"code":117,"indent":0,"parameters":[2]},{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":1},
 {"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
 ]
