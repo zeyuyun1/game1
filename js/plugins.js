@@ -4,5 +4,6 @@ var $plugins =
 [
 {"name":"SpeedManager","status":true,"description":"v1.1 Allows you to manage default movement speeds.","parameters":{"Move Speed":"3","Dash Speed":"1","Boat Speed":"4","Ship Speed":"5","Airship Speed":"6","Agility Based":"false","Distance Per Frame":"Math.pow(2, this.realMoveSpeed()) / 256;"}},
 {"name":"TerraxLighting","status":true,"description":"v1.5.1 Creates an extra layer that darkens a map and adds lightsources!","parameters":{"Player radius":"300","Add to options":"Yes","Option menu entry":"Lighting effects","Reset Lights":"No","Save DaynightHours":"0","Save DaynightMinutes":"0","Save DaynightSeconds":"0","Flashlight offset":"0","Screensize X":"866","Screensize Y":"630","Kill Switch":"No"}},
-{"name":"GALV_VisibilityRange","status":true,"description":"(v.1.2) Use an image to display a visibility range image around the player's position","parameters":{"Zoom Variable":"3","Opacity Variable":"4","Z Position":"10"}}
+{"name":"GALV_VisibilityRange","status":true,"description":"(v.1.2) Use an image to display a visibility range image around the player's position","parameters":{"Zoom Variable":"3","Opacity Variable":"4","Z Position":"10"}},
+{"name":"MadeWithMv","status":true,"description":"v1.01 Show a Splash Screen \"Made with MV\" and/or a Custom Splash Screen before going to main screen.","parameters":{"Show Made With MV":"true","Made with MV Image":"MadeWithMv","Show Custom Splash":"false","Custom Image":"","Fade Out Time":"120","Fade In Time":"120","Wait Time":"500"}}
 ];
